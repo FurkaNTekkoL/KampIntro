@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{D1026516-4BD1-4529-9E2C-7DC97D5B7AA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{F1135F56-679A-455E-92CF-5E0FDF4C9FC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{00971C83-2137-463D-8D21-7627E23DA840}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +47,10 @@ Global
 		{D1026516-4BD1-4529-9E2C-7DC97D5B7AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1026516-4BD1-4529-9E2C-7DC97D5B7AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1026516-4BD1-4529-9E2C-7DC97D5B7AA3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F1135F56-679A-455E-92CF-5E0FDF4C9FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1135F56-679A-455E-92CF-5E0FDF4C9FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1135F56-679A-455E-92CF-5E0FDF4C9FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1135F56-679A-455E-92CF-5E0FDF4C9FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00971C83-2137-463D-8D21-7627E23DA840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00971C83-2137-463D-8D21-7627E23DA840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00971C83-2137-463D-8D21-7627E23DA840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00971C83-2137-463D-8D21-7627E23DA840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
