@@ -8,17 +8,17 @@ namespace ClassMethodDemo
     {
         public void Add(Customer customer)
         {
-            Console.WriteLine("Customer Added!");
+            Console.WriteLine(customer.Id +" " + "Id is Added");
         }
 
         public void Listed(Customer customer)
         {
-            Console.WriteLine("Customer Listed!");
+            Console.WriteLine(customer.FirstName + " " + "FirstName is Listed");
         }
 
         public void Delete(Customer customer)
         {
-            Console.WriteLine("Customer Deleted!");
+            Console.WriteLine(customer.CustomerId + " " + "CustomerId is Deleted!");
         }
     }
 }
